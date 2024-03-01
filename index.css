@@ -1,1 +1,23 @@
-We build digital experiences
+ feature/images
+body{
+    background-color: black;
+}
+.navbar{
+    display: inline-flex;
+    margin-right: 10%;
+    color: white;
+}
+button{
+  padding: 20px; 
+  background-color: skyblue; 
+  color: white;
+  border-radius: 14%;
+} 
+.sentence{
+   color: white; 
+   margin-left: 5%;
+}
+.photo{
+    margin-left: 30%;
+    margin-top: -22%;
+}
